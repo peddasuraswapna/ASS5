@@ -1,0 +1,9 @@
+1. Identify the number of users who viewed item details (number_of_plays) = 3,500
+2. Identify the number of users who favorited an item (number_of_purchases) = 714
+3. Divide the number of users who favorited an item (number_of_purchases) by the number of users who viewed item details (number_of_plays)
+4. Multiply the result by 100 to convert it to a percentage
+
+Formula: (number_of_purchases / number_of_plays) * 100
+
+
+Calculation: (714 / 3,500) * 100 = 20.4%
